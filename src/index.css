@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+    @apply flex items-center justify-center h-screen;
+}
+
+button {
+    cursor: pointer;
+}
